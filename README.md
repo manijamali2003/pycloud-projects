@@ -46,7 +46,7 @@ PyCloud Clouding System (c) 2020 Mani Jamali. GNU General Public License v3.0
 
 * Enter root's password
 
-![](https://raw.githubusercontent.com/manijamali2003/pycloud-projects/master/screenshot-11.png)
+![](https://raw.githubusercontent.com/manijamali2003/pycloud-projects/master/screenshot-10.png)
 
 * Welcome to PyCloud
 
