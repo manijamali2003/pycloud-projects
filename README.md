@@ -50,6 +50,18 @@ PyCloud Clouding System (c) 2020 Mani Jamali. GNU General Public License v3.0
 
 * Welcome to PyCloud
 
+# How to change interface GUI to CLI
+
+![](https://raw.githubusercontent.com/manijamali2003/pycloud-projects/master/screenshot-12.png)
+
+1. Configure CLI (Command Line Interface) interface:
+
+`echo CLI > etc/interface`
+
+![](https://raw.githubusercontent.com/manijamali2003/pycloud-projects/master/screenshot-13.png)
+
+2. Run the PyCloud
+
 # Credits for README.MD
 
 Adoped from https://editor.md
