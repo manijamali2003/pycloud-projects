@@ -1,5 +1,5 @@
 # pycloud
-PyCloud Clouding System (c) 2020 Mani Jamali and ITPasand tim. GNU General Public License v3.0
+PyCloud Clouding System (c) 2020 Mani Jamali. GNU General Public License v3.0
 
 # How to install it?
 * Download the lastest version
