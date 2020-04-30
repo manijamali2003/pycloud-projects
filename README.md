@@ -64,4 +64,4 @@ PyCloud Clouding System (c) 2020 Mani Jamali. GNU General Public License v3.0
 
 # Credits for README.MD
 
-Adoped from https://editor.md
+* https://pandao.github.io/editor.md/en.html
